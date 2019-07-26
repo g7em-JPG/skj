@@ -1,6 +1,6 @@
 token=NDY3Njc1NTE4NDAyMTY2ODA1.XTp-pA.MH5ZDIsjeaW1x7OwBBJ-s8Tp5Bc 
 owner=280319019528093696 
-prefix= t
-game= !thelp
+prefix= s
+game= Ctrl + A = splay
 stayinchannel=true
 songinstatus=false 
